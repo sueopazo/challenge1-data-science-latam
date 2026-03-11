@@ -52,12 +52,12 @@ Identificar la sucursal con menor rendimiento mediante análisis de datos y visu
 
 ### Google Colab (Recomendado)
 ```bash
-1. Descargar AluraStoreLatam_final.ipynb
+1. Descargar AluraStoreLatam.ipynb
 2. Abrir Google Colab
 3. Subir archivo: File > Upload notebook
 4. Ejecutar: Runtime > Run all
 Instalación Local
 bash
 pip install pandas matplotlib jupyter
-jupyter notebook AluraStoreLatam_final.ipynb
+jupyter notebook AluraStoreLatam.ipynb
 ``` 
