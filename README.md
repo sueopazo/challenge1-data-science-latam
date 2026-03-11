@@ -1,13 +1,5 @@
-<h1 align="center">📊 Sistema de Análisis - Alura Store LATAM 📊</h1>
+<h1 align="center"> Challenge - Alura Store LATAM</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12.12-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2.2.2-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3.10.0-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ESTADO-COMPLETADO-green?style=for-the-badge"/>
-</p>
-
----
 
 ## 📋 Contenido
 
